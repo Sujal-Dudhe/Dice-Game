@@ -1,6 +1,12 @@
 # 🎲 Dice Game
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Game-brightgreen)](https://dice-arena.netlify.app/)
+
 A simple and interactive two-player dice game built with HTML, CSS, and JavaScript.
+
+## 🌐 Live Demo
+
+Play now: [https://dice-arena.netlify.app/](https://dice-arena.netlify.app/)
 
 ![Game Preview](./img/screenshot.png)
 
@@ -79,9 +85,9 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-## 📬 Contact
+## 📬 Connect
 
 📧 sujaldudhe2004@gmail.com
-</>[GitHub Profile](https://github.com/Sujal-Dudhe)
-𝕏[X/Twitter Profile](https://x.com/Iamsujal_111)
+</> [GitHub Profile](https://github.com/Sujal-Dudhe)
+𝕏 [X/Twitter Profile](https://x.com/Iamsujal_111)
 🎲 [Dice Game Repo](https://github.com/Sujal-Dudhe/Dice-Game)
